@@ -1,7 +1,7 @@
 # PySpark-HDFS-MachineLearning
 
-## Random Forest Classification using PySpark and HDFS. Predicting term deposit subscription for Portuguese Bank.
-
+## Random Forest Classification of term deposit subscription for a Portuguese Bank.
+Bank can target the people between 30-40 years of age, education level above primary, with certain job titles to increase there term deposit subscription rate.
 ## Instructions:
 
 Download the Ipython Notebook to run it on your machine.
